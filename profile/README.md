@@ -1,7 +1,5 @@
 # Centro de Desenvolvimento Nisía Floresta
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="imagem/preview.png" alt="Imagem do Projeto" width="800" height="auto">
-</div>
+![imagem site nisia floresta](https://github.com/Centro-D-Nisia-Floresta/.github/blob/main/imagem/preview.png)
 
 ## 📖 Descrição do Projeto
 Nisía Floresta é um e-commerce com o objetivo de proporcionar educação de qualidade na área de tecnologia para mulheres e meninas. Temos como missão transformar a vida dessas mulheres capacitando-as com formações que promovam o empoderamento e a igualdade social. Acreditamos que, ao fornecer ferramentas e conhecimentos, ajudaremos elas a alcançarem seu potencial máximo, contribuindo para um mundo mais justo e igualitário.
